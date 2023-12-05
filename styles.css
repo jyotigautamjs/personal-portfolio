@@ -355,7 +355,7 @@
 
   }
 
-  @media screen and (max-width: 430px) {
+  @media screen and (max-width: 480px) {
 
     /* welcome section  */
     .welcome-section {
@@ -364,9 +364,10 @@
     }
 
     .welcome-section>h1 {
-      font-size: 7rem;
-      margin: 14px 1px;
-      line-height: 71px;
+      font-size: 5.9rem;
+    margin: 14px 1px;
+    line-height: 60px;
+    padding-right: 15px;
     }
 
     .welcome-section>h3 {
@@ -425,11 +426,6 @@
       margin-left: 38px;
   }
 
-    .welcome-section>h1 {
-      font-size: 7rem;
-      margin: 14px 1px;
-      line-height: 71px;
-  }
 
     /* projects section  */
     .project {
